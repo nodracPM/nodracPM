@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Pedro Manuel Cardón Carrillo. <br><br>👨‍🎓📚Currently, I am studying Computer Engineering at the UNAM (National Autonomous University of Mexico).  <br><br>Some of my most important achievements are: <br>🥇First place in the international space settlement design tournament | 2021<br>🥇First place in the Robofest Latinoamerica | 2022  <br><br>I have a B2 level of English. 🗣️<br> <br>I have knowledge in: <br>-C<br>-C++<br>-Java<br>-HTML <br>-Python <br><br>I really like to learn and I'm specially interested in programming because it's a constant resolve-problem challenge 💯.<br><br><br><br>
+Hello! My name is Pedro Manuel Cardón Carrillo. <br><br>👨‍🎓📚Currently, I am studying Computer Engineering at the UNAM (National Autonomous University of Mexico).  <br><br>Some of my most important achievements are: <br>🥇First place in the international space settlement design tournament | 2021<br>🥇First place in the Robofest Latinoamerica | 2022  <br><br>I have a B2 level of English. 🗣️<br> <br>I have knowledge in: <br>*C<br>*C++<br>*Java<br>*HTML <br>*Python <br><br>I really like to learn and I'm specially interested in programming because it's a constant resolve-problem challenge 💯.<br><br><br><br>
 
 
 # 💻 Tech Stack:
